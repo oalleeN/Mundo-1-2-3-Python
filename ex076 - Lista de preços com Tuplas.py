@@ -1,3 +1,6 @@
+''' Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. 
+No final, mostre uma listagem de preços, organizando os dados em forma tabular.'''
+
 listagem = ('Carregador', 150.00,
             'Fone de Ouvido', 50.00,
             'Cabo para carregador', 53.30,

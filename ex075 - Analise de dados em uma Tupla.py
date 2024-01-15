@@ -1,3 +1,5 @@
+''' Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre:'''
+
 valor = (int(input('Digite um valor: ')),
          int(input('Digite mais um valor: ')),
          int(input('Digite novamente mais um valor: ')),
