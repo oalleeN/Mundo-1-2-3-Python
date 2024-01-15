@@ -1,7 +1,7 @@
 from termcolor import colored
 from random import randint
 print(colored('-=-' * 20, 'black'))
-print(colored('SÉRA QUE TU CONSEGUES ME GANHAR, CHEIRA PICA!?', 'green'))
+print(colored('SÉRA QUE TU CONSEGUES ME GANHAR!?', 'green'))
 print(colored('Digite um número entre 0 e 5', 'yellow'))
 print(colored('-=-' * 20, 'black'))
 
