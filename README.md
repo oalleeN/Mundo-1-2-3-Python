@@ -1,5 +1,5 @@
 # Curso em Vídeo - Python
-Aqui você vai poder encontrar todos os exercícios resolvidos do "Curso em Vídeo de Python" com a minha resolução, desde o "Mundo 1" ao "Mundo 3".
+Aqui você vai poder encontrar todos os exercícios resolvidos do "Curso em Vídeo de Python" com a minha resolução e a do professor, desde o "Mundo 1" ao "Mundo 3".
 # Obs:
 Se caso você encontrar uma linha que você acha que foi mal feita ou que usei linhas demais para resolver, peço que tenha paciência, pois estou aqui apenas para compartilhar o que aprendi durante o curso. E claro, essa falta de "experiência" em certos códigos falam muito sobre o meu desenvolvimento com a linguagem. Espero ajudar!
 
